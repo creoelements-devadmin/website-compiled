@@ -1,0 +1,15 @@
+name: Deploy to Server
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Trigger Deployment Script
+        run: |
+          curl -s "https://yourdomain.com/deploy.php?key=${{ secrets.DEPLOY_KEY }}"
