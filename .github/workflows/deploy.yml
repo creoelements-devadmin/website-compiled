@@ -12,4 +12,4 @@ jobs:
     steps:
       - name: Trigger Deployment Script
         run: |
-          curl -s "https://yourdomain.com/deploy.php?key=${{ secrets.DEPLOY_KEY }}"
+          curl -s "https://creo-elements.com/deploy.php?key=${{ secrets.DEPLOY_KEY }}"
