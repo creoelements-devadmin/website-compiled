@@ -1,5 +1,4 @@
 name: Deploy to Server
-# adding comment to test with a change
 on:
   push:
     branches:
