@@ -100,7 +100,7 @@ Error generating stack: `+i.message+`
   "name": "Creo Elements",
   "url": "https://creo-elements.com",
   "image": "https://creo-elements.com/logo.png",
-  "telephone": "+91XXXXXXXXXX",
+  "telephone": "+919892360639",
   "priceRange": "$$",
 
   "address": {
