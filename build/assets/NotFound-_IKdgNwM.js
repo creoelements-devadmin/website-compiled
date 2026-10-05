@@ -1,0 +1,1 @@
+import{j as o,L as e}from"./index-BHEs1lj0.js";const n=()=>o.jsxs("div",{className:"not-found",children:[o.jsx("h1",{children:"404 - Page Not Found"}),o.jsx("p",{children:"The page you are looking for doesn't exist or has been moved."}),o.jsx(e,{to:"/",children:"Go Back Home"})]});export{n as default};
